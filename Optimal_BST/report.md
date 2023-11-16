@@ -1,4 +1,4 @@
-### Optimal-BST Implementation in C++###
+### Optimal-BST Implementation in C++ 
 
 
 This code is for the Bonus2 in NTHU coursework for Design and Analysis of Algorithms
