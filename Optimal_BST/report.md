@@ -8,3 +8,7 @@ It implements the pseudocode of *OPTIMAL-BST(p,q,n)* on the *Introduction to Alg
 Besides calculating the ***expected cost***, I also print the ***structure of the OBST*** according to the format required by Exercises 14.5-1. for the pupose of
 conveniently observing the structure of the binary tree.
 
+
+
+Below is the execution result of NTHU dataset:
+![Alt text](exec_result.png)
